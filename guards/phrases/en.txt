@@ -1,0 +1,17 @@
+# One phrase per line. Case does not matter. Lines starting with # are ignored.
+# A hit switches landing mode on. A "*" stands for any letters. Edit freely; add your own to mine.txt.
+i am tired
+i'm tired
+im tired
+i am exhausted
+i'm exhausted
+can't think
+cannot think
+cant think
+too much text
+too much at once
+going to bed
+go to bed
+go to sleep
+i lost track
+overwhelmed

@@ -1,0 +1,2 @@
+# My own stop phrases: the words I actually use when I have had enough.
+# The setup asks me for them. One per line.

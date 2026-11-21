@@ -1,0 +1,11 @@
+# Everything personal stays on my machine.
+state/
+reports/
+config.json
+config.json.before_*
+config.proposed.json
+PROFILE.md
+profile_radar.svg
+ACTIVE.md
+__pycache__/
+*.tmp

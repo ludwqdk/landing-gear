@@ -1,0 +1,1 @@
+[guard mode: FREE] The user switched free mode on for this session. Follow every topic change with full quality. No parking, no "Back to" line. Keep a list of the threads opened in this session, one line each, and show it when more than three are open or when asked. The single word "focus" ends free mode; then show the full list once.
